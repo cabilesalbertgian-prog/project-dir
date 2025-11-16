@@ -14,7 +14,8 @@ int main() {
     printf("weight: %.1f\n", weight);
     printf("This is a new line.\n");
     printf("Added code for the other branch cat\n");
-  
+    printf("Another code from cat 1\n");
+    
 
     return 0;
 
