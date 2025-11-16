@@ -12,7 +12,7 @@ int main() {
     printf("Age: %d\n", age);
     printf("Height: %.1f\n", height);
     printf("weight: %.1f\n", weight);
-    printf("New line added.\n");
+    printf("This is a new line.\n");
 
 
     return 0;
