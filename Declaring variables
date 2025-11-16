@@ -13,7 +13,8 @@ int main() {
     printf("Height: %.1f\n", height);
     printf("weight: %.1f\n", weight);
     printf("This is a new line.\n");
-
+    printf("Added code for the other branch cat\n");
+  
 
     return 0;
 
