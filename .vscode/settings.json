@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "declaring variables": "c"
+        "declaring variables": "c",
+        "using operators": "c"
     }
 }
